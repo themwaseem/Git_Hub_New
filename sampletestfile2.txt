@@ -1,3 +1,4 @@
 this is sample file 2
 THIS IS REVERT file 2
 This is comkparion lecture change in file 2
+This is Stash lecture, Change in file 2

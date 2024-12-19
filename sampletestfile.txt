@@ -5,4 +5,8 @@ Here I will add some text and I have copied this text from the Google and pasted
 GIT REVERT 1
 This is comkparion lecture
 
+<<<<<<< Updated upstream
 This is Stash lecture, Change in main file 1
+=======
+This is Stash lecture, Change in file 1
+>>>>>>> Stashed changes
